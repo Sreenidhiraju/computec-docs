@@ -10,7 +10,7 @@ The CompuTec Web Client Start is an essential tool for integrating plugins and e
 
 ## Plugins Pack Installation
 
-The Plugins Pack is a WebClientExtension with the collection of plugins that are activated for a company. The Plugins Pack WebClientExtension is unique for each company, hence this process needs to be carried out separately for each company. To access the CompuTec plugins in the SAP Business One Web Client, plugin pack installation is mandatory. This feature ensures centralized management and deployment across desired environments.
+The Plugins Pack is a WebClientExtension with the collection of plugins that are activated for a company. The Plugins Pack is unique for each company, hence this process needs to be carried out separately for each company. To access the CompuTec plugins in the SAP Business One Web Client, plugin pack installation is mandatory. This feature ensures centralized management and deployment across desired environments.
 
 **Steps to install the Plugins Pack**:
 
